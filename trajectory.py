@@ -13,7 +13,7 @@ if len(sys.argv) == 3:
 
 	# Try to make a directory in which we will save the captured images
 	try:
-		mkdir("img/trajectory_" + str(image_type)) + "/"
+		mkdir("img/trajectory_" + str(image_type))
 	except:
 		i = 0		# Dummy
 
