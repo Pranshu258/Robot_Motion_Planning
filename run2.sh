@@ -1,0 +1,10 @@
+python recon2.py 1
+python recon2.py 2
+python recon2.py 3
+python recon2.py 4
+python recon2.py 5
+python recon2.py 6
+python recon2.py 7
+python recon2.py 8
+python recon2.py 9
+python recon2.py 10
